@@ -1,4 +1,4 @@
-# flutter-qr-code-scanner
+# flutter-qr-code-generator
 single page app in flutter.  
 
     Built in android studio.  
