@@ -1,2 +1,7 @@
 # flutter-qr-code-scanner
-single page app in flutter
+single page app in flutter.  
+
+    Built in android studio.  
+    Tested on google pixel 2  
+    API level 26  
+    Android v-9
